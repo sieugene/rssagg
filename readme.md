@@ -7,7 +7,7 @@ Running docker compose
   docker-compose up -d
 ```
 
-
+./scl/schema
 goose postgres DB_URL up
 goose postgres DB_URL down
 
